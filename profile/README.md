@@ -1,4 +1,4 @@
-# TAG for Public Safety Answering Points
+# TAG Resources for Public Safety Answering Points
 This is a page dedicated for PSAP administrators in the United States intended to prevent another denial of emergency services to a person in need.
 
 To learn how bad actors are hampering access to emergency services and how you can help prevent another massacre [click here](https://github.com/TAGIsNoGame/TAG).
